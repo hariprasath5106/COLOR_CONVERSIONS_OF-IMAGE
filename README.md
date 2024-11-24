@@ -108,8 +108,7 @@ cv2.imshow('WINDOW', res_img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-![exp11111](https://github.com/user-attachments/assets/6329d83e-a9c6-427d-91f9-d45718d3b8d3)
-
+![image](https://github.com/user-attachments/assets/ce8b6d58-0e85-4e33-b60b-966e41b01603)
 
 
 ### v).Add the text "OpenCV Drawing" at the top-left corner of the image.
